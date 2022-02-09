@@ -1,0 +1,36 @@
+﻿  Entity.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(45,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Entity.h
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(45,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Level1.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(45,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Level1.cpp(64,33): warning C4305: '=': truncation from 'double' to 'float'
+  Level2.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(45,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Level2.cpp(60,33): warning C4305: '=': truncation from 'double' to 'float'
+  Level3.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(45,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(45,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Map.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Map.cpp(82,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Map.cpp(83,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(45,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Scene.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(45,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Entity.h(46,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ShaderProgram.cpp
+  SimpleMenu.cpp
+  Util.cpp
+D:\Document\GitHub\secondPlatformer\PlatformerFinally\Util.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+Debug\Entity.obj : warning LNK4042: object specified more than once; extras ignored
+  SDLProject.vcxproj -> D:\Document\GitHub\secondPlatformer\PlatformerFinally\Debug\PlatformerFinally.exe
